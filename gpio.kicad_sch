@@ -289,7 +289,7 @@
     (property "Reference" "J4" (at 100.33 66.675 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x07" (at 106.68 68.58 0)
+    (property "Value" "Conn_01x12" (at 106.68 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_JST:JST_XH_S7B-XH-A-1_1x07_P2.50mm_Horizontal" (at 97.79 66.04 0)

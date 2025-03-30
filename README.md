@@ -1,5 +1,9 @@
 # CyberBoard - USB
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/cybergear-robotics/cyberboard-usb/activity)
+
+
 This is the Kicad project for the CyberBoard. It has an ESP32S3 which is
 connected via USB to a computer. The microcontroller drives the cybergear 
 motors via CAN. Furthermore a MOLEX CLIK connector is integrated in order
